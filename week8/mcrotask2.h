@@ -1,0 +1,1 @@
+#define sum(a,n) int sum=0;for(int i=0;i<n;i++){ sum+=a[i];}printf("%d ",sum)
